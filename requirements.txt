@@ -1,0 +1,12 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+opencv-python
+mediapipe
+controlnet_aux
+clean-fid
+torchmetrics
+scikit-image
+matplotlib
